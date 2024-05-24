@@ -1,0 +1,2 @@
+# python-asoslari
+Python asoslari!
